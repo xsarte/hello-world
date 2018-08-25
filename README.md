@@ -1,3 +1,3 @@
 # hello-world
 
-// dipping into git hub 25th og Aug 2018
+// dipping into git hub 25th of Aug 2018
